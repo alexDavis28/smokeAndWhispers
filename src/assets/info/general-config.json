@@ -5,15 +5,15 @@
   "defaultTitle": "MSMC |",
   "icon": "/faction-logos/msmc.svg",
   "header": {
-    "planet": "Heiligtum-6 'Deep Blue'",
-    "year": "5017u",
-    "system": "Heiligtum",
+    "planet": "Centromere Station",
+    "year": "5021u",
+    "system": "Long Rim",
     "gate": "Rào Cỏ",
     "ring": "Annamite",
     "headerTitle": "Mirrorsmoke",
     "headerSubtitle": "Mercenary Company",
     "subheaderTitle": "Contract Work",
-    "subheaderSubtitle": "Sierra-Whiskey-Alpha-Golf"
+    "subheaderSubtitle": "BridgeBurners"
   },
   "pilotSpecialInfo": {}
 }
