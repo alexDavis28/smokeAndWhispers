@@ -38,4 +38,9 @@ export default defineConfig({
   css: {
     devSourcemap: true,
   },
+  server: {
+    allowedHosts: [
+      "briefing.alexdavis.tardis.ac"
+    ]
+  }
 });
