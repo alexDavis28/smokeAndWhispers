@@ -4,7 +4,6 @@
 		  v-if="$props.clock.type == 'Story'"
 		  :class="$props.clock.type.toLowerCase()">
 			<div class="clock-header">
-				<h2 class="clock-subtitle">Story // Relationship</h2>
 				<h1 class="clock-title">{{ $props.clock.name }}</h1>
 			</div>
 			<div class="clock-body">
