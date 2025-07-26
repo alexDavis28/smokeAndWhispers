@@ -2,19 +2,10 @@
     {
     "type": "Story",
     "result": "Positive",
-    "name": "Evergreen Defense",
-    "description": "[Insert info here] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam sem mi, vitae pharetra lorem dictum consectetur.",
+    "name": "Harriet Sex%",
+    "description": "Can Harriet Verbena seduce every member of the party over the course of this campaign.",
     "color": "#F50057",
-    "value": 2,
-    "max": 6
-    },
-    {
-    "type": "Story",
-    "result": "Negative",
-    "name": "Machine Horde",
-    "description": "[Insert info here] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam sem mi, vitae pharetra lorem dictum consectetur.",
-    "color": "#FD7777",
-    "value": 2,
-    "max": 6
+    "value": 1,
+    "max": 5
     }
 ]
